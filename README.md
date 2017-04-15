@@ -11,6 +11,7 @@ Mathematica can import many many image and audio formats with `Import[]`. Additi
 *  [LSB image](LSB%20image/README.md) – Least significant bit (LSB) image analysis.
 *  [Pixel data](Pixel%20data/README.md) – Pixel data and file formats.
 *  [QR code](QR%20code/README.md) – Barcode recognition and simple list/matrix manipulation.
+*  [Coordinate plotting](Coordinate%20plotting/README.md) – Plot coordinates from a SQLite database.
 
 ### Audio
 
