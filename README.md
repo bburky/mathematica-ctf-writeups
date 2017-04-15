@@ -8,17 +8,17 @@ Mathematica can import many many image and audio formats with `Import[]`. Additi
 
 ### Images
 
-*  [LSB image](LSB image/README.md) – Least significant bit (LSB) image analysis.
-*  [Pixel data](Pixel data/README.md) – Pixel data and file formats.
-*  [QR code](QR code/README.md) – Barcode recognition and simple list/matrix manipulation.
+*  [LSB image](LSB%20image/README.md) – Least significant bit (LSB) image analysis.
+*  [Pixel data](Pixel%20data/README.md) – Pixel data and file formats.
+*  [QR code](QR%20code/README.md) – Barcode recognition and simple list/matrix manipulation.
 
 ### Audio
 
-*  [MIDI notes](MIDI notes/README.md) – MIDI note analysis. Manipulate[] example.
-*  [Spectrogram image](Spectrogram image/README.md) – Audio spectrogram image.
-*  [Morse code](Morse code/README.md) – Sound channel manipulation, data decoding.
+*  [MIDI notes](MIDI%20notes/README.md) – MIDI note analysis. Manipulate[] example.
+*  [Spectrogram image](Spectrogram%20image/README.md) – Audio spectrogram image.
+*  [Morse code](Morse%20code/README.md) – Sound channel manipulation, data decoding.
 
 ### Cryptography
 
-*  [Hill cipher](Hill cipher/README.md) – Hill cipher implementation.
-*  [Rabin cipher](Rabin cipher/README.md) – Compromised Rabin cipher implementation.
+*  [Hill cipher](Hill%20cipher/README.md) – Hill cipher implementation.
+*  [Rabin cipher](Rabin%20cipher/README.md) – Compromised Rabin cipher implementation.
